@@ -1,6 +1,6 @@
 # multicast
 
 ## Steps to deploy:
-``bash
+```bash
 mvn clean install
-``
+```
